@@ -1,0 +1,10 @@
+
+Uber Rides Data Analysis - Insights
+
+1. Most rides are booked for BUSINESS purposes.
+2. The most common purposes for rides are Meetings and Meal/Entertainment.
+3. Most cabs are booked between 10 AM - 5 PM (Afternoon).
+4. Business and Personal ride categories are negatively correlated.
+5. Ride counts are significantly lower in winter months (Nov, Dec, Jan).
+6. Most rides are under 20 miles, with a peak around 4-5 miles.
+7. Short rides (0-20 miles) dominate, while long-distance rides are rare.
