@@ -35,4 +35,4 @@ Includes data visualization, feature engineering, and a comprehensive PDF report
 
 
 
-![Uber Rides Analysis](https://github.com/YOUR_USERNAME/Uber-Rides-Analysis/blob/main/sample_chart.png)
+![Uber Rides Analysis](https://github.com/malashreedh/Uber-Rides-Analysis/blob/main/sample_chart.png)
