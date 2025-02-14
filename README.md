@@ -5,7 +5,7 @@ Analyzing Uber ride data using Python for insights into ride categories, usage p
 Includes data visualization, feature engineering, and a comprehensive PDF report of findings.
 
 
-**📌 Key Features**
+### **📌 Key Features**
 
 🛠 Data Cleaning & Preprocessing: Handling missing values, converting dates, and feature engineering.
 
@@ -17,7 +17,7 @@ Includes data visualization, feature engineering, and a comprehensive PDF report
 
 ⚡ Easy Setup: Install dependencies with pip install -r requirements.txt and run python3 uber_analysis.py.
 
-**🚀 How to Use**
+### **🚀 How to Use**
 1. Clone this repository:
 
         git clone https://github.com/YOUR_USERNAME/Uber-Rides-Analysis.git
@@ -56,5 +56,5 @@ It includes trip details such as the start and end times, ride category (Busines
 
 
 
-**Sample chart**
+#### **Sample chart**
 ![Uber Rides Analysis](https://github.com/malashreedh/Uber-Rides-Analysis/blob/main/sample_chart.png)
