@@ -1,11 +1,20 @@
 **🚖 Uber Rides Data Analysis 📊**
-Analyzing Uber ride data using Python for insights into ride categories, usage patterns, and trends. Includes data visualization, feature engineering, and a comprehensive PDF report of findings.
+
+Analyzing Uber ride data using Python for insights into ride categories, usage patterns, and trends. 
+
+Includes data visualization, feature engineering, and a comprehensive PDF report of findings.
+
 
 **📌 Key Features**
+
 🛠 Data Cleaning & Preprocessing: Handling missing values, converting dates, and feature engineering.
+
 📊 Data Visualization: Charts & graphs using Matplotlib and Seaborn.
+
 🔎 Insights Extraction: Ride categories, popular times, distance patterns.
+
 📄 Comprehensive PDF Report: All charts saved in Uber_Rides_Analysis.pdf.
+
 ⚡ Easy Setup: Install dependencies with pip install -r requirements.txt and run python3 uber_analysis.py.
 
 **🚀 How to Use**
