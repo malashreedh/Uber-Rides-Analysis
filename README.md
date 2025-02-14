@@ -32,3 +32,7 @@ Includes data visualization, feature engineering, and a comprehensive PDF report
         python3 uber_analysis.py
 
 4. Open Uber_Rides_Analysis.pdf to view all visualizations.
+
+
+
+![Uber Rides Analysis](https://github.com/YOUR_USERNAME/Uber-Rides-Analysis/blob/main/sample_chart.png)
