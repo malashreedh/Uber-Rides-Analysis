@@ -33,6 +33,28 @@ Includes data visualization, feature engineering, and a comprehensive PDF report
 
 4. Open Uber_Rides_Analysis.pdf to view all visualizations.
 
+## 📂 Dataset Information
+
+The dataset (`UberDataset.csv`) contains real Uber ride data from **January 2016**. 
+
+It includes trip details such as the start and end times, ride category (Business or Personal), distance traveled, and trip purpose.
+
+### 📊 **Dataset Columns**
+
+| Column Name  | Description |
+|-------------|------------|
+| **START_DATE** | Date and time when the ride started. |
+| **END_DATE** | Date and time when the ride ended. |
+| **CATEGORY** | Type of ride (**Business or Personal**). |
+| **START** | Pickup location. |
+| **STOP** | Drop-off location. |
+| **MILES** | Distance of the ride in miles. |
+| **PURPOSE** | Purpose of the ride (Meeting, Meal/Entertainment, Customer Visit, etc.). |
 
 
+🚀 **This dataset helps analyze ride patterns, busiest times, and business vs. personal travel trends.**
+
+
+
+**Sample chart**
 ![Uber Rides Analysis](https://github.com/malashreedh/Uber-Rides-Analysis/blob/main/sample_chart.png)
